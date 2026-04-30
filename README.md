@@ -10,3 +10,6 @@ https://www.kaggle.com/datasets/eoinamoore/historical-nba-data-and-player-box-sc
 Players.csv
 ------------
 https://www.kaggle.com/datasets/eoinamoore/historical-nba-data-and-player-box-scores?select=Players.csv
+
+Additionally, I was unable to upload my presentation video to Canvas, so it is linked here:
+https://www.youtube.com/watch?v=Et1Edd9xaek 
